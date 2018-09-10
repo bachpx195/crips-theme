@@ -1,0 +1,14 @@
+{
+    "name"        : "Crisp",
+    "version"     : "0.5.1",
+    "description" : "A minimalist, responsive, and open-source theme for Ghost",
+    "author"      : {
+      "name": "banh_bao_chien",
+      "email": "dongta195@gmail.com"
+    },
+    "homepage"    : "bachpham.info",
+		"license"     : "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International",
+    "config": {
+      "posts_per_page": 10
+    }
+}
